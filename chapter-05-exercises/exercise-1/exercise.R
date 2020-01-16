@@ -1,7 +1,7 @@
 # Exercise 1: practice with basic R syntax
 
 # Create a variable `hometown` that stores the city in which you were born
-
+hometown <- "Seattle"
 
 # Assign your name to the variable `my_name`
 
