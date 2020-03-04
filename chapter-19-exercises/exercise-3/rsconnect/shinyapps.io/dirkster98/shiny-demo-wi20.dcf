@@ -1,0 +1,12 @@
+name: shiny-demo-wi20
+title: shiny-demo-wi20
+username:
+account: dirkster98
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1899321
+bundleId: 2849168
+url: https://dirkster98.shinyapps.io/shiny-demo-wi20/
+when: 1583291493.72875
+asMultiple: FALSE
+asStatic: FALSE
